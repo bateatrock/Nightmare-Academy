@@ -1,0 +1,4 @@
+repository "Nightmare Academy@noobz_10@cloud"
+  path "/"
+    br "/main"
+    co "/main"
